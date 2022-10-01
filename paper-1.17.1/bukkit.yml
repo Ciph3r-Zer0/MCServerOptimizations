@@ -21,14 +21,14 @@ settings:
   connection-throttle: 0
   query-plugins: true
   deprecated-verbose: default
-  shutdown-message: Server closed
+  shutdown-message: Server closed for updates
   minimum-api: none
 spawn-limits:
-  monsters: 25
-  animals: 6
-  water-animals: 4
-  water-ambient: 4
-  water-underground-creature: 3
+  monsters: 20
+  animals: 4
+  water-animals: 3
+  water-ambient: 3
+  water-underground-creature: 2
   ambient: 1
 chunk-gc:
   period-in-ticks: 600
